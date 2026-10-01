@@ -1,7 +1,7 @@
-# Activity 10
+# Activity 10 — Inventory App
 
-Android app built in Kotlin for [course name — e.g. Mobile Development].
+Android inventory management app built in Kotlin using Jetpack Compose, for a Mobile Development course.
 
-**What it does:** [1-2 lines — e.g. "Implements a multi-screen app using Activities and Intents, with form validation and local data handling."]
+**What it does:** Lets users add, view, edit, and delete inventory items, with data persisted locally using a Room database. Built with an MVVM architecture — separate ViewModels and a repository layer handle the data flow between the UI and the local database.
 
-**Tech used:** Kotlin, Android Studio, Gradle
+**Tech used:** Kotlin, Jetpack Compose, Room (SQLite), MVVM architecture, Android Studio, Gradle
